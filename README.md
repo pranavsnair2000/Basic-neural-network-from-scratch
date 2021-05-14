@@ -1,7 +1,7 @@
 # Basic-neural-network-from-scratch
 This is a basic neural network with two hidden layers and tunable hyperparameters and cost functions, built without the use of keras or tensorflow (sklearn is used to split the data into train and test). 
 
-### Dataset
+## Dataset
 **LBW_Dataset.csv** contains the Low Birth weigh dataset, which is small dataset of just 96 records.  LBW is closely associated with infant mortality as well as various health outcomes later in life. Various studies show strong correlation between maternal health during pregnancy and the child’s birth weight. We use health indicators of pregnant women such as age, height, weight, community etc in order for early detection of potential LBW cases. This detection is treated as a classification problem between LBW and not-LBW classes. The problem statement was to build a model to classify patient cases into LBW and non-LBW classes based on these indicators. 
 
 The Dataset consists of 10 columns
